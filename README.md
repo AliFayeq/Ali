@@ -1,1 +1,1 @@
-#Hi there, I'm Ali Fayeq 👋
+Hi there, I'm Ali Fayeq 👋
